@@ -19,3 +19,5 @@ Then we must be expected, for the strangers when Gandalf had as they saw right a
 __
 
 Run time: 5.111310243606567
+#
+Completed in collaboration with: Yu Pan, Sijie Shang, John Tu
