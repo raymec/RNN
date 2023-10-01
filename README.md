@@ -4,7 +4,7 @@ Text used for the RNN model: Lord of the Rings: The Fellowship of the Ring
 Based on the example from Tensorflow's text generation with RNN:
 https://www.tensorflow.org/text/tutorials/text_generation
 #
-Sample outputs from TensorFlow (best result):
+Sample output from TensorFlow (best result):
 Dataset: rings.txt
 
 At 100 epochs, using the current model, this was our best result.
